@@ -1,0 +1,2 @@
+//set of highorder functions to test other functions with primary data according to data ranges//
+void permtest(int (*function)(int),int ALrange,int ARrange,int RLrange,int RRrange) ; //[ret:int][arg:int]
