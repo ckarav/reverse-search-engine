@@ -1,7 +1,3 @@
-/******************************************************************************************************/
-/*the MD5_HashFunction Routine makes use of the "RSA Data Security, Inc. MD5 Message-Digest Algorithm"*/
-/******************************************************************************************************/
-
 #include "hash.h"
 #include <stdio.h>
 int M_HashFunction(Word key,int table_size)

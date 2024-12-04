@@ -5,7 +5,7 @@
 #include "defn_impl.h"
 #include "data_struct.h"
 #include "hash.h"
-#include "MD5.h"
+//#include "MD5.h"
 
 
 #define CHECK(text, actual, expected)                         \
